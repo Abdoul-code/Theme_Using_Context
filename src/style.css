@@ -1,0 +1,14 @@
+body{
+margin:0;
+padding:0;
+}
+navbar{
+    padding: 20px,
+}
+main{
+padding:30px;
+background-color:yellow;
+}
+footer{
+padding:15px
+}
